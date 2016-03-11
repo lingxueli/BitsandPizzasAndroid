@@ -1,6 +1,8 @@
 # BitsandPizzasAndroid
 
-This is a food store app that displays menus and stores locations for a virtual store. Menu are displayed wiht rich content. Each food is categorized by types, shown with attractive pictures and descriptions.
+This is a food store app that displays menus and stores locations for a virtual store. 
+
+Menu are displayed wiht rich content. Each food is categorized by types, shown with attractive pictures and descriptions.
 
 Techniques:
 
